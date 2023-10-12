@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(56, 55, 55);
+    font-size: 34pt;
+    font-family:'Libre Baskerville','Arial', 'Helvetica', 'sans-serif';
+    font-style: italic;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 300px;
+    margin-right:300px
+}
+
+p {
+    color:rgb(188, 79, 79);
+    font-size: 12pt;
+    font-family:'Kanit', 'Helvetica', 'sans-serif'; 
+    font-weight:200;
+}
+
+body{
+    font-family:'Libre Baskerville', 'Helvetica', 'sans-serif'; 
+}
